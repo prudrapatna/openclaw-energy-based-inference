@@ -216,7 +216,4 @@ All tests passed!
 
 ## References
 
-1. **V7 Paper**: Energy-based world models
-2. **Gate 3 Methodology**: Counterfactual evaluation
-3. **PyTorch Optimization**: Adam optimizer, gradient descent
-4. **Medical AI**: Intervention optimization in physiological systems
+https://arxiv.org/pdf/2507.02092
